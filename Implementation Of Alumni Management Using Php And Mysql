@@ -1,0 +1,9 @@
+Firstly,Install Xampp Server on Windows Based 64 bit And Thoroughly Undergoes The Installation of The Xampp Server and install Run Apache Server on Xammp Server
+And Also For Acessing The Mysql we want to run the mysql server and check the Post based on the server and the Website Host
+Go to xampp Server in Mysql open the admin block and import the database to access the mysql server and database for the project 
+Create alumni_db Database and in the import section import the alunni_db.sql file to the database and Hence data is Successfully Implement in Database
+Open Browser of any time that supports the xampp server and implicate the local host on the browser
+Type:localhost/alumni/  for retrieving the alumni management system website
+for Contact The Admin for update the data And delete the data for based on the user credentials and Previliages to the Alumni Management Sytem Website
+To Contact the admin for this Username:admin Password:admin123 to access the admin dashboard.
+Hence we Can  Manage the alumni list and their Job Oppurtunities and Notification For the list of Events and for the View of Their Galleries on University.
